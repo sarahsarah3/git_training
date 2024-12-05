@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Files that GitHub should ignore and not version control
+=======
+#Files that GitHub should ignore and not version control....
+>>>>>>> 7919beac6b1532d3a6b9fb5363de8dd89ccf694d
 .Rproj.user
 .Rhistory
 .RData
