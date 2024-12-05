@@ -1,4 +1,4 @@
-#Files that GitHub should ignore and not version control..
+#Files that GitHub should ignore and not version control....
 .Rproj.user
 .Rhistory
 .RData
