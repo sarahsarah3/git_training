@@ -1,2 +1,2 @@
 library(RPostgres)
-library(tidyverse) #used in this course .
+library(tidyverse) #used in this course..
